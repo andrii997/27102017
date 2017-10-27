@@ -1,0 +1,94 @@
+header, main {
+	font-family: sans-serif;
+	width: 60%;
+	border: 2px dotted gray;
+	margin: auto;
+}
+.mainn {
+	width: 60%;
+	margin-top: 20px;
+	margin-left: 20px;
+	font-size: 18px;
+	text-align: justify;
+	line-height: 30px;
+}
+
+.mainn h1 {
+	font-size: 20px;
+	text-align: center;
+	color: blue;
+}
+
+.mainn h2 {
+	font-size: 14px;
+	font-weight: bold;
+	text-align: center;
+	color: blue;
+}
+
+.mainn .bold {
+	color: red;
+	font-weight: bold;
+}
+
+.mainn .italic {
+	font-style: italic;
+	color: blue;
+}
+.first_p:first-letter {
+	padding-left: 40px;
+}
+.second {
+	font-family: serif;
+	font-size: 14px;
+}
+.second h1 {
+	font-size: 30px;
+	color: red;
+	text-align: center;
+}
+.two_second {
+	width: 70%;
+	margin-left: 20px;
+}
+
+.two_second p {
+	line-height: 28px;
+	text-align: justify;
+}
+
+.redd {
+	font-family: sans-serif;
+	font-size: 24px;
+	font-weight: bold;
+	color: red;
+}
+.colors {
+	color: red;
+}
+.colors span {
+	font-size: 20px;
+	font-weight: bold;
+}
+.hh2 {
+	font-size: 24px;
+	color: green;
+}
+
+.paragraph_write_skript span, 
+.css_blue {
+	font-style: italic;
+	color: blue;
+}
+.italic_list {
+	font-size: 16px;
+	font-style: italic;
+	line-height: 24px;
+	color: #924763;
+}
+
+.italic_list span {
+	font-size: 22px;
+	font-weight: bold;
+	color: red;
+}
